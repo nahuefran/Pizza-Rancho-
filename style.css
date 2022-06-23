@@ -1,0 +1,197 @@
+header .logo{
+    width: 140px;
+    display: flex;
+    justify-content: flex-start;
+    background-color: black;
+}
+
+.pizzas p{
+    color: white;
+}
+.nav{
+    margin: 10px;
+}
+
+.videos{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    width: 100px;
+}
+
+.referencias{
+    color: white;
+}
+
+.maps{
+    width: 500px;
+    padding-left: 477px;
+    padding-top: 3px;
+    display: flex;
+}
+.datos{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+}
+
+.salontxt{
+    font-size: 20px;
+    font-style: italic;
+}
+.postrestxt{
+    font-size: 20px;
+    font-style: italic;
+}
+.gustos{
+    font-size: 20px;
+    font-style: italic;
+}
+.empanadastxt{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.head{
+    width: 100%;
+    background-color: black;
+}
+.food{
+    background-color: black;
+}
+/* Seccion empanadas*/
+.emp1{
+    width: 30%;
+}
+.emp2{
+    width: 30%;
+}
+.empanaimg{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 5%;
+   
+    
+}
+/*Fin seccion empanadas*/
+
+/*Seccion pizzas*/
+
+.section1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.img1{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 5%;
+    gap: 2%;
+}
+
+.img2{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 5%;
+    gap: 3%;
+}
+
+
+.pizza1{
+    width:  2%;
+}
+.pizza2{
+    width:  2%;
+}
+.pizza3{
+    width: 2%;
+}
+.pizza4{
+    width:  2%;
+}
+/*Fin seccion pizzas*/
+
+/*Postres*/
+.cafe{
+    width: 80%;
+}
+.flan{
+    width: 80%;
+}
+.postres1{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.panqueques{
+    width: 80%;
+    
+}
+.bombon{
+    width: 60%px;
+}
+/*Fin Postres*/
+
+/*Salon*/
+
+.salon1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.frente{
+    width: 50%;
+    height: 50%;
+}
+.vinos{
+    width: 30%;
+    height: 50%;
+}
+.horno{
+    width: 30%;
+    height: 30%;
+}
+.espinillo{
+    width: 35%;
+    height: 50%;
+}
+.salon2{
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
+/*Fin salon*/
+
+.body{
+    background-color: green;
+    
+}
+
+.wspfixed{
+    width: 130px;
+}
+
+.item-fixed {
+    position: fixed;
+    bottom:0;
+    right: 0;
+}
+/*resposive*/
+.container{
+    width: 100%;
+}
+
