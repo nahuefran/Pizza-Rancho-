@@ -195,3 +195,6 @@ header .logo{
     width: 100%;
 }
 
+.disclaimer{
+    display: none;
+}
